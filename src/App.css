@@ -1,0 +1,10 @@
+.app {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
